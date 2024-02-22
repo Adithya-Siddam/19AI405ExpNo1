@@ -231,3 +231,5 @@ print(agent.performance)
 
 ![image](https://github.com/Adithya-Siddam/19AI405ExpNo1/assets/93427248/dfc91b84-7c58-4c58-883d-6ee9939733c0)
 
+<h3>RESULT:</h3>
+Thus, an AI agent is developed with PEAS description.
